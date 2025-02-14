@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
