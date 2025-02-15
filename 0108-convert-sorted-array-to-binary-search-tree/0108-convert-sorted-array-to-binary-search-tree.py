@@ -9,7 +9,7 @@ class Solution:
             left , right =0  , len(nums)-1
             if not nums :
                 return None 
-            mid = left + (right-left)//2 
+            mid = len(nums)//2 
             root = TreeNode(nums[mid])
             root.left = self.sortedArrayToBST(nums[:mid])
             root.right = self.sortedArrayToBST(nums[mid+1:])
