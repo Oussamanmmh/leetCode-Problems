@@ -10,8 +10,7 @@ class Solution:
             if(counter == 0 ):
                 condidate = nums[i]
                 counter = 1 
-            if(counter > len(nums)-i-1):
-                return condidate
+            
         return condidate
             
 
