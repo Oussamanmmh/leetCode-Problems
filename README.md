@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0169-majority-element) |
+| [0724-find-pivot-index](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0724-find-pivot-index) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0098-validate-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
