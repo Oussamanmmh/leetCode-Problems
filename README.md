@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0724-find-pivot-index) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 ## Simulation
