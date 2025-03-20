@@ -3,9 +3,9 @@
  * @return {number}
  */
 var singleNumber = function(nums) {
-    nums.sort()
-    for (let i = 0 ; i < nums.length -1 ;  i+=2){
-        if (nums[i]!=nums[i+1]) return nums[i]
+    let result = 0;
+    for (let num of nums) {
+        result ^= num;  
     }
-    return nums[nums.length - 1 ]
+    return result;
 };
