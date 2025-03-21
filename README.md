@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
