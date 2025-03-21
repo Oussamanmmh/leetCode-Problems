@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0326-power-of-three) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Hash Table
 |  |
 | ------- |
