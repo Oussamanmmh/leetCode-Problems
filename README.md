@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0326-power-of-three) |
+| [0523-continuous-subarray-sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0169-majority-element) |
+| [0523-continuous-subarray-sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0169-majority-element) |
+| [0523-continuous-subarray-sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
