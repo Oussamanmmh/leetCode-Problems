@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [3540-hash-divided-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3540-hash-divided-string) |
 ## Trie
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
