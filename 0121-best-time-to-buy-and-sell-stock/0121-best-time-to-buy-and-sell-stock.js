@@ -6,7 +6,7 @@ var maxProfit = function(prices) {
     let profitDay=1 ;
     let buyDay=0;
     let maxProfit = 0 ;
-    for(let i=0;i<prices.length;i++){
+    while(profitDay<prices.length){
         if(prices[profitDay]-prices[buyDay]<=0){
             buyDay = profitDay
         }
