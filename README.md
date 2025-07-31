@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0724-find-pivot-index) |
+| [0941-sort-array-by-parity](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1603-running-sum-of-1d-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0941-sort-array-by-parity](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0941-sort-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0389-find-the-difference) |
+| [0941-sort-array-by-parity](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0941-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
