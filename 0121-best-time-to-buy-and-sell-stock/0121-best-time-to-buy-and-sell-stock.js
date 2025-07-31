@@ -3,17 +3,16 @@
  * @return {number}
  */
 var maxProfit = function(prices) {
-    let profitDay=1 ;
-    let buyDay=0;
-    let maxProfit = 0 ;
-    while(profitDay<prices.length){
-        if(prices[profitDay]-prices[buyDay]<=0){
-            buyDay = profitDay
+    let minPrice = prices[0];
+    let maxProfit =  0 ;
+    for(let i =0 ; i<prices.length;i++){
+        if(prices[i]<minPrice){
+            minPrice = prices[i];
+
         }
-        if(prices[profitDay]-prices[buyDay] > maxProfit){
-            maxProfit = prices[profitDay]-prices[buyDay]
+        else {
+            maxProfit = Math.max(maxProfit , prices[i]-minPrice)
         }
-        profitDay++;
     }
-    return maxProfit;
+    return maxProfit ;
 };
