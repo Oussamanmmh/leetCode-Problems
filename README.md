@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0724-find-pivot-index) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0069-sqrtx) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
