@@ -8,7 +8,6 @@ var firstMissingPositive = function(nums) {
     console.log(nums);
     for(let i=0; i< nums.length;i++){
         if(missNumber === nums[i]){
-            console.log("we had : missnumber = "+missNumber +"and nums[i] = "+nums[i])
             missNumber ++ ;
         }
     }
