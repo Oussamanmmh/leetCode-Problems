@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
