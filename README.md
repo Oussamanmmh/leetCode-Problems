@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-goat-latin](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0851-goat-latin) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3540-hash-divided-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3540-hash-divided-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0941-sort-array-by-parity](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Enumeration
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
