@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2083-three-divisors](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2083-three-divisors) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,5 +216,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2083-three-divisors) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
