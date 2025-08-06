@@ -3,14 +3,14 @@
  * @return {string}
  */
 var removeStars = function(s) {
-    let v = "" ;
+    let v = [] ;
     for(let i=0; i<s.length;i++){
         if(s[i]!=="*"){
-            v+=s[i] ;
+           v.push(s[i]) ;
         }
         else {
-            v = v.substring(0,v.length-1)
+           v.pop() ;
         }
     }
-    return v ;
+    return v.join("") ;
 };
