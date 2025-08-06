@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0851-goat-latin](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0851-goat-latin) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2470-removing-stars-from-a-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3540-hash-divided-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3540-hash-divided-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [2470-removing-stars-from-a-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2058-concatenation-of-array) |
+| [2470-removing-stars-from-a-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3540-hash-divided-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3540-hash-divided-string) |
 ## Database
 |  |
