@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1603-running-sum-of-1d-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [2048-build-array-from-permutation](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0067-add-binary) |
+| [2048-build-array-from-permutation](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3540-hash-divided-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3540-hash-divided-string) |
