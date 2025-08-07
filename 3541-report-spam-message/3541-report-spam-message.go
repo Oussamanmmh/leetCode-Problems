@@ -5,7 +5,7 @@ func reportSpam(message []string, bannedWords []string) bool {
         set[v] = struct{}{} ;
     }
     for _  , word := range message {
-        if  _, exists := set[word]; exists {
+        if  _ , exists := set[word]; exists {
             count++
         }
         if count == 2 {
