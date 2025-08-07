@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0851-goat-latin](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0851-goat-latin) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2470-removing-stars-from-a-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3540-hash-divided-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3540-hash-divided-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1603-running-sum-of-1d-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2083-three-divisors) |
+## Union Find
+|  |
+| ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
+## Graph
+|  |
+| ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 <!---LeetCode Topics End-->
