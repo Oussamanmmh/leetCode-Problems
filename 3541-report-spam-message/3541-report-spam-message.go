@@ -1,11 +1,11 @@
 func reportSpam(message []string, bannedWords []string) bool {
-    set:=make(map[string]bool)
+    set:=make(map[string]struct{})
     count:=0 
     for _ , v := range  bannedWords {
-        set[v] = true ;
+        set[v] = struct{}{} ;
     }
     for _  , word := range message {
-        if set[word]{
+        if  _, exists := set[word]; exists {
             count++
         }
         if count == 2 {
