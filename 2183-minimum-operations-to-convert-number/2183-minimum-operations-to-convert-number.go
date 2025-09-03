@@ -33,7 +33,6 @@ func minimumOperations(nums []int, start int, goal int) int {
                 if nxt >= 0 && nxt <= 1000 && !visited[nxt] {
                     queue = append(queue, state{nxt, cur.steps + 1})
                 } else if nxt < 0 || nxt > 1000 {
-                    // out of bounds, but might equal goal already checked above
                     queue = append(queue, state{nxt, cur.steps + 1})
                 }
             }
