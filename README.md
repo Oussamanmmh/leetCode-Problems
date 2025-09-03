@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-goat-latin](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0851-goat-latin) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3540-hash-divided-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3540-hash-divided-string) |
 | [3541-report-spam-message](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3541-report-spam-message) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2058-concatenation-of-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3540-hash-divided-string](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/3540-hash-divided-string) |
 ## Database
