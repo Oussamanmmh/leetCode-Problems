@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2183-minimum-operations-to-convert-number](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2183-minimum-operations-to-convert-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2183-minimum-operations-to-convert-number](https://github.com/Oussamanmmh/leetCode-Problems/tree/master/2183-minimum-operations-to-convert-number) |
 <!---LeetCode Topics End-->
